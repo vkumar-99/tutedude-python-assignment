@@ -11,3 +11,7 @@
 ## Assignment 3
 - Task 1: Factorial using recursion
 - Task 2: Calculation using Math module
+
+## Assignment 4
+- Task 1: Read file and print contents with error handling
+- Task 2: Write and appenend file with error handling

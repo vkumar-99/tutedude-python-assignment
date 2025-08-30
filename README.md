@@ -15,3 +15,7 @@
 ## Assignment 4
 - Task 1: Read file and print contents with error handling
 - Task 2: Write and appenend file with error handling
+
+## Assignment 5
+- Task 1: Dictionary data structure operations
+- Task 2: List slicing and reversing

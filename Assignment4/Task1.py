@@ -6,5 +6,7 @@ try:
     for line in lines:
         print("Line",counter,":",line)
         counter += 1
+    open_file.close()
 except FileNotFoundError:
     print("The file '",file_name,"' was not found")
+

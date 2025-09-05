@@ -19,3 +19,6 @@
 ## Assignment 5
 - Task 1: Dictionary data structure operations
 - Task 2: List slicing and reversing
+
+## Assignment 6
+- Tiknter calculator
